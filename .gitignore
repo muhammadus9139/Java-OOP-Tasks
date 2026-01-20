@@ -1,0 +1,36 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+*.project
+*.classpath
+*.cproject
+
+# Ignore compiled files
+*.class
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore build folders
+/bin/
+/build/
+/Debug/
+/Release/
+
+# Ignore logs and other temp outputs
+*.log
+*.tmp
